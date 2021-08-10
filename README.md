@@ -22,7 +22,4 @@
  <img align="center" alt="Tay-Csharp" height="30" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img align="center" alt="Tay-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <hr>
- 
- ![Snake animation](https://github.com/Tayrangel/Tayrangel/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
