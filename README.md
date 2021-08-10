@@ -21,19 +21,7 @@
   <img align="center" alt="Tay-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Tay-Csharp" height="30" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Tay-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  ![Snake animation](https://github.com/tayrangel/tayrangel/blob/output/github-contribution-grid-snake.svg)
 </div>
   
- 
+![Snake animation](https://github.com/tayrangel/tayrangel/blob/output/github-contribution-grid-snake.svg)
   
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Tayrangel/Tayrangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
