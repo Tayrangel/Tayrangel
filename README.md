@@ -1,7 +1,10 @@
 <h4 align="center">👋 Hi, I'm Tayhana Rangel</h4>
-<span align="center">Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados.
-Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas. 
-Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.</span>
+<div align="center">
+ <h6>Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados. <br> 
+       Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas. <br>
+       Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.
+ </h6>
+</div>
 <hr>
 
 <div align="center">
