@@ -1,30 +1,43 @@
-<h4 align="center">👋 Hi, I'm Tayhana Rangel</h4>
-<div align="center">
- <h6>Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados. <br> 
-       Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas. <br>
-       Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.
- </h6>
-</div>
+<h3 align="center">👋 Olá, eu sou a Tayhana Rangel</h3>
 <hr>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/tayhanafonseca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="mailto:tayhanarangel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/tayrangel_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <p></p>
+<div>
+<img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="550"/>
+<p align="left" style="font-size:12px;">Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados.</p> <p> Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas.</p> <p>Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.</p>
+<div>
+
+<div align="left">
+ <h4>Gerenciamento de Projetos e BI:</h4>
+ <img align="center" alt="clickup" height="30" width="30" src="https://salessniper.net/wp-content/uploads/2021/11/CU.png">
+ <img align="center" alt="trello" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
+ <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+ <img align="center" alt="lookerstudio" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg">
+ <img align="center" alt="qlik" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg">
+</div>
+ 
+<div align="left">
+ <h4>Linguagens</h4>
+ <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+ <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+ <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Postgre" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="SQL Server" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </div>
 
+<div align="right">
+ <h4>Conecte-se comigo:</h4>
+ <a href="https://www.linkedin.com/in/tayhanafonseca/" target="_blank"><img height="20" width="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
+ <a href="mailto:tayhanarangel@gmail.com" target="_blank"><img height="20" width="40" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" target="_blank"></a>
+ <a href="https://sites.google.com/view/tayhana-rangel/p%C3%A1gina-inicial" target="_blank"><img height="20" width="50" src="https://img.shields.io/badge/-Site Pessoal-lightgray?style=for-the-badge&=appveyor" target="_blank"></a>
+ </div>
+
 <div align="center">
+ <h3>GitHub Stats</h3>
  <a href="https://https://github.com/Tayrangel">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayrangel&show_icons=true&theme=radical">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&layout=compact&langs_count=168&theme=radical">
-</div>
-
-<div style="display:inline_block" align="center"><br>
- <img align="center" alt="Tay-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img align="center" alt="Tay-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="Tay-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="Tay-Csharp" height="30" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align="center" alt="Tay-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <hr>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayrangel&show_icons=true&theme=tokyonight">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&layout=compact&langs_count=168&theme=tokyonight">
 </div>
