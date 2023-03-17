@@ -2,7 +2,7 @@
 <hr>
 
 <div>
-<img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="550"/>
+<img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="450"/>
 <p align="left" style="font-size:12px;">Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados.</p> <p> Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas.</p> <p>Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.</p>
 <div>
 
