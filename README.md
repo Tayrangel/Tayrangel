@@ -3,7 +3,10 @@
 
 <div>
 <img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="450"/>
-<p align="left" style="font-size:12px;">Pós-graduada em Engenharia de Software e Gerenciamento de Projetos, graduada em Engenheira Química, qualificada como Cientista de Dados.</p> <p> Atuação no gerenciamento de projetos simultâneos com metodologias ágeis e híbridas, na área de tecnologia da informação. Habituada a trabalhar com análise de dados e métricas.</p> <p>Experiência há mais de 7 anos no desenvolvimento de projetos de novos produtos, para o aumento da produtividade, aumento de eficiência e eliminação de gargalos com ferramentas de qualidade, nas áreas de processos industriais e controle de qualidade.</p>
+<p align="left" style="font-size:12px;">Profissional multidisciplinar com vasta experiência em gerenciamento de projetos, análise e ciência de dados, buscando sempre aprimorar minhas habilidades e conhecimentos para entregar os melhores resultados.</p>
+<p>Experiência há 8 anos em gerenciamento de projetos de novos produtos e melhoria de processos com foco na produtividade e eficiência, além de trabalhar com análise de dados, indicadores, KPI’s, o que me permite identificar gargalos, oportunidades de melhoria nos projetos e visão de oportunidades de negócio.</p>
+<p>Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e Excel. Transformando informações úteis em softwares BI que permitem criar relatórios personalizados e dashboards que ajudam as partes interessadas a visualizar e entender as tendências do negócio.</p>
+<p>Com orientação aos resultados e vasta experiência em simplificar processos de negócios, ofereço direção estratégica em apoio aos objetivos organizacionais. </p>
 <div>
 
 <div align="left">
