@@ -1,11 +1,15 @@
-<h3>👋 Olá, eu sou a Tayhana Rangel</h3>
-<h4>Profissional generalista com habilidade de se adaptar a qualquer desafio
-</h4>
+<h3><a href="https://sites.google.com/view/tayhana-rangel/p%C3%A1gina-inicial" target="_blank">👋 Olá, eu sou a Tayhana Rangel</a></h3>
+<p style= "font-weight=10px">Profissional generalista com habilidade de se adaptar a qualquer desafio</p>
+<hr>
 
 <div>
-<div style="width: 143px; height: 165px; color: #2C837F; font-size: 96px; font-family: Niramit; font-weight: 500; word-wrap: break-word">8+</div>
-<div style="width: 1079px; height: 165px"><span style="color: white; font-size: 16px; font-family: Niramit; font-weight: 500; word-wrap: break-word">anos de experiência profissional em Gerenciamento de Projetos de novos produtos e melhoria de processos com foco na produtividade e eficiência. </span><span style="color: white; font-size: 16px; font-family: Niramit; font-weight: 700; word-wrap: break-word">Trabalho com BI desde 2021</span><span style="color: white; font-size: 16px; font-family: Niramit; font-weight: 500; word-wrap: break-word"> e sou apaixonada pelo universo de DataViz e design de dashboards. Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e transformando informações úteis em softwares BI.</span></div>
+<img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="230"/>
+<p align="left" style="font-weight=10px"><br><br>8+ anos de experiência profissional em Gerenciamento de Projetos de novos produtos e melhoria de processos com foco na produtividade e eficiência. <b>Trabalho com BI desde 2021</b> e sou apaixonada pelo universo de DataViz e design de dashboards. Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e transformando informações úteis em softwares BI.</p>
 <div>
+
+<br>
+<br>
+<br>
 
 <div>
     <h4>Linguagens, ferramentas de BI e gerenciamento de projetos:</h4>
@@ -29,5 +33,5 @@
  <h3>GitHub Stats</h3>
  <a href="https://https://github.com/Tayrangel">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayrangel&show_icons=true&theme=tokyonight">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&langs_count=168&theme=tokyonight">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&theme=tokyonight">
 </div>
