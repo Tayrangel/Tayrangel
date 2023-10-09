@@ -33,5 +33,5 @@
  <h3>GitHub Stats</h3>
  <a href="https://https://github.com/Tayrangel">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayrangel&show_icons=true&theme=tokyonight">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&theme=tokyonight">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&layout=compact&theme=tokyonight">
 </div>
