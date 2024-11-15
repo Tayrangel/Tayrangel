@@ -18,7 +18,7 @@
         <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
         <img align="center" alt="lookerstudio" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg">
         <img align="center" alt="qlik" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg">
-        <img align="center" alt="clickup" height="30" width="30" src="https://salessniper.net/wp-content/uploads/2021/11/CU.png">
+        <img align="center" alt="clickup" height="30" src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png">
         <img align="center" alt="trello" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
 </div>
 
