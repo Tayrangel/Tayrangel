@@ -4,7 +4,7 @@
 
 <div>
 <img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="230"/>
-<p align="left" style="font-weight=10px"><br><br>8+ anos de experiência profissional em Gerenciamento de Projetos de novos produtos e melhoria de processos com foco na produtividade e eficiência. <b>Trabalho com BI desde 2021</b> e sou apaixonada pelo universo de DataViz e design de dashboards. Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e transformando informações úteis em softwares BI.</p>
+<p align="left" style="font-weight=10px"><br><br>9+ anos de experiência profissional em gerenciamento de projetos de produtos e business intelligence, trabalho com indicadores e fornecendo insights estratégicos, identificando oportunidades de melhoria de processos com foco em produtividade e eficiência. Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e transformando informações úteis em softwares BI.</p>
 <div>
 
 <br>
