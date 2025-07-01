@@ -1,26 +1,26 @@
-<h3><a href="https://sites.google.com/view/tayhana-rangel/p%C3%A1gina-inicial" target="_blank">👋 Olá, eu sou a Tayhana Rangel</a></h3>
-<p style= "font-weight=10px">Profissional generalista com habilidade de se adaptar a qualquer desafio</p>
+<h3><a href="https://sites.google.com/view/tayhana-rangel/p%C3%A1gina-inicial" target="_blank">👋 Hi, I'm Tayhana Rangel</a></h3>
+<p style= "font-weight=10px">I'm a data professional specializing in data analysis and business intelligence</p>
 <hr>
 
 <div>
-<img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-work-4341270_120574.png" alt="analisando dados" align="right" width="230"/>
-<p align="left" style="font-weight=10px"><br><br>9+ anos de experiência profissional em gerenciamento de projetos de produtos e business intelligence, trabalho com indicadores e fornecendo insights estratégicos, identificando oportunidades de melhoria de processos com foco em produtividade e eficiência. Ampla experiência em análise de dados, capacidade de coletar, analisar e interpretar grandes conjuntos de dados, combinada com habilidades em ETL e transformando informações úteis em softwares BI.</p>
-<div>
+<p style="font-weight=10px">Focused on transforming data into actionable insights, optimizing processes, and driving business results. I have over 9 years of experience in analytical roles, including more than 3 years dedicated to data analysis and a deep understanding of business needs.
 
-<br>
-<br>
-<br>
+I have extensive expertise in leveraging technologies such as SQL, Python, and Looker to solve complex challenges. In recent years, I have developed over 180 metrics and attributes in semantic layers, automated pipelines, and implemented dimensional data modeling to deliver scalable and efficient data solutions.</p>
 
+<b>Technologies</b>
+- Snowflake, BigQuery
+- SQL, Python
+- ETL/ELT, DBT, Airflow
+- Looker, Looker Studio, Power BI
+- Data Modeling (Data Vault, Star Schema, Snowflake Schema, OBT)
+
+<b>Soft Skills</b>
+- Analytical thinking and problem-solving
+- Effective communication with technical and non-technical audiences
+- Proactivity and adaptability
+- Process automation and results-oriented mindset
+- Leadership and team management
 <div>
-    <h4>Linguagens, ferramentas de BI e gerenciamento de projetos:</h4>
-        <img align="center" alt="SQL" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-        <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="powerbi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-        <img align="center" alt="lookerstudio" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg">
-        <img align="center" alt="qlik" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg">
-        <img align="center" alt="clickup" height="30" src="https://avatars.slack-edge.com/2024-05-01/7057208497908_a4351f6deb91094eac4c_512.png">
-        <img align="center" alt="trello" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
-</div>
 
 <div>
  <h4>Conecte-se comigo:</h4>
