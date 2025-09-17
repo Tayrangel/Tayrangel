@@ -28,10 +28,3 @@ I have extensive expertise in leveraging technologies such as SQL, Python, and L
  <a href="mailto:tayhanarangel@gmail.com" target="_blank"><img height="20" width="40" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" target="_blank"></a>
  <a href="https://sites.google.com/view/tayhana-rangel/p%C3%A1gina-inicial" target="_blank"><img height="20" width="50" src="https://img.shields.io/badge/-Site Pessoal-lightgray?style=for-the-badge&=appveyor" target="_blank"></a>
  </div>
-
-<div>
- <h3>GitHub Stats</h3>
- <a href="https://https://github.com/Tayrangel">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayrangel&show_icons=true&theme=tokyonight">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayrangel&layout=compact&theme=tokyonight">
-</div>
